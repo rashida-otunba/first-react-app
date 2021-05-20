@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/first-react-app/static/css/main.e7a8fff2.chunk.css",
+    "main.js": "/first-react-app/static/js/main.57b341eb.chunk.js",
+    "main.js.map": "/first-react-app/static/js/main.57b341eb.chunk.js.map",
+    "runtime-main.js": "/first-react-app/static/js/runtime-main.16f0ca6f.js",
+    "runtime-main.js.map": "/first-react-app/static/js/runtime-main.16f0ca6f.js.map",
+    "static/js/2.7bb7a8b3.chunk.js": "/first-react-app/static/js/2.7bb7a8b3.chunk.js",
+    "static/js/2.7bb7a8b3.chunk.js.map": "/first-react-app/static/js/2.7bb7a8b3.chunk.js.map",
+    "static/js/3.1feb57c2.chunk.js": "/first-react-app/static/js/3.1feb57c2.chunk.js",
+    "static/js/3.1feb57c2.chunk.js.map": "/first-react-app/static/js/3.1feb57c2.chunk.js.map",
+    "index.html": "/first-react-app/index.html",
+    "static/css/main.e7a8fff2.chunk.css.map": "/first-react-app/static/css/main.e7a8fff2.chunk.css.map",
+    "static/js/2.7bb7a8b3.chunk.js.LICENSE.txt": "/first-react-app/static/js/2.7bb7a8b3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/first-react-app/static/media/bg-intro-mobile.02ce3982.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16f0ca6f.js",
+    "static/js/2.7bb7a8b3.chunk.js",
+    "static/css/main.e7a8fff2.chunk.css",
+    "static/js/main.57b341eb.chunk.js"
+  ]
+}
